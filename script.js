@@ -5,5 +5,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
     button.addEventListener("click", () => {
         alert("Hello, !");
+        alert(", World!");
     });
 });
